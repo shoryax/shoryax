@@ -6,8 +6,3 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a fun fact 😂
 - I can speak 3 languages English, French (not that much) +_+ and Russian.
-
-<!---
-shoryax/shoryax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
