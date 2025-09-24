@@ -5,4 +5,4 @@
 - 📫 You can reach me on LinkedIn, Instagram and GitHub 🤭
 - 😄 Pronouns: he/him, a "man"
 - ⚡ Fun fact: I'm a fun fact 😂
-- I can speak 3 languages English, French (not that much) +_+ and Russian.
+- I can speak 3 languages English, French (not that much) and Russian.
