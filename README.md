@@ -4,5 +4,5 @@
 - 💞️ I’m seeking knowledge in all fields ;)
 - 📫 You can reach me on LinkedIn, Instagram and GitHub 🤭
 - 😄 Pronouns: he/him, a "man"
-- ⚡ Fun fact: I'm a fun fact 😂
+- ⚡ Fun fact: You'll have to start the conversation with me 😂
 - I can speak 3 languages English, French (not that much) and Russian.
