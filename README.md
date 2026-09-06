@@ -1,7 +1,9 @@
 shorya vardhan
-[shor{roll your 'r'}-y]   *tinkering and directing*
+[shor{roll your 'r'}-y]  
 
-*definition*: A curious coder fueled by many, many movies and random builds.
+*tinkering and directing*
+
+*definition*: a curious coder fueled by many, many movies and random builds.
 
 *some more water...*
 
