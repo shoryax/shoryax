@@ -26,7 +26,7 @@ shorya vardhan
 ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-> "You have to believe in yourself. That's the secret."
+> "you have to keep going. that's it."
 
 🧋
 
