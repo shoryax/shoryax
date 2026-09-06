@@ -1,18 +1,14 @@
-aurelisajuan / README.md
-
 shorya vardhan
 [shor{roll your 'r'}-y]   *tinkering and directing*
 
 *definition*: A curious coder fueled by many, many movies and random builds.
 
-*some more tea...*
+*some more water...*
 
-- fluent in matcha, currently speaking [Assembly](#).
-- producing and directing hackathon projects with [10 wins](#) and counting.
+- fluent in matcha, currently speaking [C++](#).
+- producing and directing projects.
 
-[LinkedIn](#) | [Hackathons](#)
-
-**featured project - [Toastology](#) reached 40k+ audience worldwide!**
+**featured project - [Quad](#)!**
 
 *my tech stacks*
 
@@ -30,7 +26,7 @@ shorya vardhan
 ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-> "You have to believe in yourself. That's the secret." – Po. (Kung Fu Panda, *yeah the GMOAT (greatest movie of all time)*)
+> "You have to believe in yourself. That's the secret."
 
 🧋
 
