@@ -1,22 +1,20 @@
-<h1 align="center">Aurelisa Juan</h1>
-<h3 align="center">[oh'ruh'LEE'sa jwan] &nbsp; <i>tinkering and directing</i></h3>
+aurelisajuan / README.md
 
-<p align="center">
-<i>definition</i>: A curious coder fueled by many, many movies and random builds.
-</p>
+shorya vardhan
+[shor{roll your 'r'}-y]   *tinkering and directing*
 
-<p align="center"><i>some more tea...</i></p>
+*definition*: A curious coder fueled by many, many movies and random builds.
 
-- fluent in matcha, currently speaking <ins>Assembly</ins>.
-- producing and directing hackathon projects with <ins>10 wins</ins> and counting.
+*some more tea...*
 
-<p align="center">
-<a href="#">LinkedIn</a> | <a href="#">Hackathons</a>
-</p>
+- fluent in matcha, currently speaking [Assembly](#).
+- producing and directing hackathon projects with [10 wins](#) and counting.
 
-### featured project - [Toastology](#) reached 40k+ audience worldwide!
+[LinkedIn](#) | [Hackathons](#)
 
-### my tech stacks
+**featured project - [Toastology](#) reached 40k+ audience worldwide!**
+
+*my tech stacks*
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -36,4 +34,4 @@
 
 🧋
 
-xoxo, **lisa** ⋆˚꩜｡
+xoxo, **Shorya** ⋆˚꩜｡
