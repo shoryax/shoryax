@@ -1,4 +1,4 @@
-shorya vardhan
+shorya
 [shor{roll your 'r'}-y]  
 
 *tinkering and directing*
